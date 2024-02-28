@@ -35,7 +35,7 @@
     "confirmation.message.title": "Kiểm tra email của bạn",
     "confirmation.support.link": "liên hệ với hỗ trợ kỹ thuật",
     "need.help.sign.in.text": "Cần trợ giúp đăng nhập?",
-    "additional.help.text": "Để được trợ giúp bổ sung, hãy liên hệ với hỗ trợ {platformName} tại",
+    "additional.help.text": "Để được trợ giúp bổ sung, hãy liên hệ với hỗ trợ {platformName} tại ",
     "sign.in.text": "Đăng nhập",
     "extend.field.errors": "{emailError} bên dưới.",
     "invalid.token.heading": "Liên kết đặt lại mật khẩu không hợp lệ",
